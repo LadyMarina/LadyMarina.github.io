@@ -1,0 +1,25 @@
+
+/* INDEX */
+.icons_index{margin-right: 20px; margin-left: 20px; margin-bottom: 10px;}
+.h1_index{color: orange;}
+.h3_index{color: chocolate;}
+.top-buffer { margin-top:60px; }
+.bot-buffer { margin-top:270px; }
+.porfile_pic{margin-right: 50px;}
+.about-me{ font-family: sans-serif; font-weight: normal; font-size: 11; }
+.contact_index{margin-top: 20px; margin-bottom: 30px;margin-left: 120px;}
+
+
+/* WORK */
+.work_item_title{ color: chocolate;}
+.work_item {margin-top: 50px; margin-bottom: 20px; margin-left: 20px;}
+
+
+/* CONTACT */
+.content_contact{margin-top: 150px; margin-left: 100px;}
+.fill_in{margin-bottom: 500px;}
+.h1_contact{color: orange;}
+
+/* MIXT */
+.contact_media{ color: chocolate;}
+.contact_info{ color: black;}
